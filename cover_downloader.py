@@ -4,7 +4,7 @@ import subprocess
 import csv
 import os
 
-#
+# Name of album csv file
 ALBUM_LIST_FILE = "AOTD_info_list.csv"
 # Target resolution for cover downloads
 IMG_RES = 600
